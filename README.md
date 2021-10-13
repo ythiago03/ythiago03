@@ -1,7 +1,5 @@
 ## Oii! Eu sou o Thiago Henrique 
 
-- 🔭 Dev Junior
-- 🌱 Estudando front-end
  <div>
     <a href="https://github.com/ythiago03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
