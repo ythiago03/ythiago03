@@ -1,9 +1,7 @@
 <!--first-gif-->
-
 <img align="right" src=".github/workflows/rimuru.gif" alt="rimuru gif"  width="50%"/>
 
 <!--profile-->
-
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
  <h2 align="left">Welcome!</h2>
  <br>
@@ -13,14 +11,6 @@
  <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
  </p>
  
-
- <!--
- - Olá, meu nome é Thiago Henrique
-     - Estou cursando Ciência da Computação (1° período)
-     - No momento estudando Desenvolvimento Web(Front-End)</p>
- -->
- 
- 
  <!-- github -->
  <div align="center">
     <a href="https://github.com/ythiago03">
@@ -28,17 +18,14 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
- 
- 
+ <!-- icons -->
 <div style="display: inline_block"><br>
-  
    <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
- 
+   <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 </div>
   
+  <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
   ##
 
   <div>
