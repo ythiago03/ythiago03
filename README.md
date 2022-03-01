@@ -29,8 +29,9 @@
   <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
 
  <!--about-->
- - 🌱 I am currently studying Html, Css, JavaScript and reactjs
- 
+ <!--
+  🌱 I am currently studying Html, Css, JavaScript and reactjs
+ -->
  
  
  <!--contact-->
