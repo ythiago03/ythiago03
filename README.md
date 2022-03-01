@@ -10,7 +10,7 @@
    <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="thi-gif" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimeglitch.tumblr.com%2Fpost%2F641527423634112513%2Frimuru-tempest-that-time-i-got-reincarnated-as-a&psig=AOvVaw05yH0maxCUPTWfwP9xZTdg&ust=1646221762620000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNie5I_spPYCFQAAAAAdAAAAABAW" >
+  <img align="right" alt="thi-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/H1De7T2Lrp4kEsVuik/giphy.gif" >
  
 </div>
   
