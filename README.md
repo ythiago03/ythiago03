@@ -5,7 +5,7 @@
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
  <h2 align="left">Welcome!</h2>
  <br>
- <p> I'm Thiago Henrique, Fron-End developer
+ <p> I'm Thiago Henrique, Front-End developer
   <br>
  
  <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
@@ -28,6 +28,11 @@
   <!--pato-->
   <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
 
+ <!--about-->
+ - 🌱 I am currently studying Html, Css, JavaScript and reactjs
+ 
+ 
+ 
  <!--contact-->
   <div>
      <a href="https://www.instagram.com/https_._._th/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
