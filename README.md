@@ -1,6 +1,6 @@
 <!--first-gif-->
 
-<img align="left" src="https://media.giphy.com/media/H1De7T2Lrp4kEsVuik/giphy.gif" alt="rimuru gif"  width="50%"/>
+<img align="left" src=".github/rimuru.gif" alt="rimuru gif"  width="50%"/>
 
 <!--profile-->
 
