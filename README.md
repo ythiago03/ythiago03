@@ -4,13 +4,15 @@
 
 <!--profile-->
 
- <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="50px"></h1>
+ <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
  <h2 align="left">Welcome!</h2>
  <p> I'm Thiago Henrique, Fron-End developer
   
  
+ <img src=".github/workflows/pug.gif" alt="ghost gif" width="50px">
+ </p>
  
- ##
+
  <!--
  - Olá, meu nome é Thiago Henrique
      - Estou cursando Ciência da Computação (1° período)
