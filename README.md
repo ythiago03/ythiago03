@@ -5,7 +5,7 @@
 <!--profile-->
 
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="50px"></h1>
- <h2 align="center">Welcome!</h2>
+ <h2 align="center" font-size="20px">Welcome!</h2>
  <p> I'm Thiago Henrique, Fron-End developer
   
  
