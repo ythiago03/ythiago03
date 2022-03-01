@@ -7,11 +7,11 @@
 </div>
  
  ##
- 
- <p> - Olá, meu nome é Thiago Henrique
+ <!--
+ - Olá, meu nome é Thiago Henrique
      - Estou cursando Ciência da Computação (1° período)
      - No momento estudando Desenvolvimento Web(Front-End)</p>
- 
+ -->
  
 <div style="display: inline_block"><br>
   
