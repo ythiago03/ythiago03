@@ -4,7 +4,7 @@
 
 <!--profile-->
 
- <h1 align="right">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="30px"></h1>
+ <h1 align="right">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="50px"></h1>
 
  
  
