@@ -10,7 +10,7 @@
  <p> I'm Thiago Henrique, Fron-End developer
   <br>
  
- <img src=".github/workflows/pug.gif" alt="ghost gif" width="50px">
+ <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
  </p>
  
 
