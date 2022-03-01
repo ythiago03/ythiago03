@@ -1,6 +1,6 @@
 <!--first-gif-->
 
-<img align="left" src=".github/rimuru.gif" alt="rimuru gif"  width="50%"/>
+<img align="left" src=".github/workflows/rimuru.gif" alt="rimuru gif"  width="50%"/>
 
 <!--profile-->
 
