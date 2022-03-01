@@ -6,8 +6,9 @@
 
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
  <h2 align="left">Welcome!</h2>
+ <br>
  <p> I'm Thiago Henrique, Fron-End developer
-  
+  <br>
  
  <img src=".github/workflows/pug.gif" alt="ghost gif" width="50px">
  </p>
