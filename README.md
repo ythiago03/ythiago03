@@ -1,11 +1,13 @@
 <!--first-gif-->
 
-<img align="left" src=".github/workflows/rimuru.gif" alt="rimuru gif"  width="50%"/>
+<img align="right" src=".github/workflows/rimuru.gif" alt="rimuru gif"  width="50%"/>
 
 <!--profile-->
 
  <h1 align="right">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="50px"></h1>
-
+ <h2 align="center">Welcome!</h2>
+ <p> I'm Thiago Henrique, Fron-End developer
+  
  
  
  ##
