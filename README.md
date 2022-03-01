@@ -6,11 +6,7 @@
 
  <h1 align="right">Hello World <img src=".github/workflows/ghost.gif" alf="ghost gif" width="30px"></h1>
 
- <div>
-    <a href="https://github.com/ythiago03">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ 
  
  ##
  <!--
@@ -18,6 +14,14 @@
      - Estou cursando Ciência da Computação (1° período)
      - No momento estudando Desenvolvimento Web(Front-End)</p>
  -->
+ 
+ 
+ <div>
+    <a href="https://github.com/ythiago03">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+ 
  
 <div style="display: inline_block"><br>
   
