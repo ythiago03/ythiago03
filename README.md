@@ -30,7 +30,7 @@
 
  <!--about-->
  <h2> About me</h2>
- <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="50px" style="margin_left: 30px">
+ <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="50px">
  <ul>
      <li> 👨🏻‍💻 I'm looking for an internship as a front-end developer</li>
      <li>🌱 I am currently studying JS, HTML, CSS, REACT and APIs</li>
