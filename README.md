@@ -3,9 +3,9 @@
 
 <!--profile-->
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
-
+ <p align="left">Welcome!
  <br>
- <p> I'm Thiago Henrique, Front-End developer
+  I'm Thiago Henrique, Front-End developer
   <br>
  
  <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
