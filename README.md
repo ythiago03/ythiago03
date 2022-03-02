@@ -12,7 +12,7 @@
  </p>
  
  <!-- github -->
- <div align="center" margin_top="30px">
+ <div align="center">
     <a href="https://github.com/ythiago03">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -29,7 +29,7 @@
   <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
 
  <!--about-->
-
+ <h2> About me</h2>
  
 
 
