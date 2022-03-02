@@ -8,7 +8,6 @@
   I'm Thiago Henrique, Front-End developer and
  passionate about games and programming.
   <br>
-  passionate about games and programming.
  <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
  </p>
  
