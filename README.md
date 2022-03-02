@@ -30,7 +30,7 @@
 
  <!--about-->
 
-  <p>🌱 I am currently studying Html, Css, JavaScript and reactjs
+  <p> hello
 
 
 
