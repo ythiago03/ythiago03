@@ -31,6 +31,8 @@
  <!--about-->
  <h2> About me</h2>
  
+ 👨🏻‍💻 I'm looking for an internship as a front-end developer
+ 🌱 I am currently studying JS, HTML, CSS, REACT and APIs
 
 
  
