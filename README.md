@@ -36,7 +36,7 @@
   
  </ul>
  <!--contact-->
-  <div align="center" style="display: inline_block">
+  <div align="left" style="display: inline_block">
      <a href="https://www.instagram.com/https_._._th/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
