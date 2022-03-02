@@ -30,7 +30,7 @@
 
  <!--about-->
  <h2> About me</h2>
- <ul>
+ <ul align="center">
      <li> 👨🏻‍💻 I'm looking for an internship as a front-end developer</li>
      <li>🌱 I am currently studying JS, HTML, CSS, REACT and APIs</li>
   
