@@ -8,7 +8,7 @@
   I'm Thiago Henrique, Front-End developer and
  passionate about games and programming.
   <br>
- <img src=".github/workflows/pug.gif" alt="pug gif" width="70px">
+ <img src=".github/workflows/pug.gif" alt="pug gif" width="80px">
  </p>
  
  <!-- github -->
