@@ -30,12 +30,13 @@
 
  <!--about-->
  <h2> About me</h2>
- <ul align="center">
+ <div align="center">
+ <ul>
      <li> 👨🏻‍💻 I'm looking for an internship as a front-end developer</li>
      <li>🌱 I am currently studying JS, HTML, CSS, REACT and APIs</li>
   
  </ul>
- 
+ </div>
  <!--contact-->
   <div>
      <a href="https://www.instagram.com/https_._._th/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a><br>
