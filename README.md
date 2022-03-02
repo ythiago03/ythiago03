@@ -3,7 +3,7 @@
 
 <!--profile-->
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
- <p align="left">Welcome!
+ <p align="left">Welcome to my github!
  <br>
   I'm Thiago Henrique, Front-End developer
   <br>
