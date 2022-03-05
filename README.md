@@ -22,8 +22,9 @@
 <div style="display: inline_block"
      align="center"><br>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>  
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>  
+     
 </div>
   <!--pato-->
   <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
