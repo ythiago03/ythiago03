@@ -24,6 +24,7 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>  
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
+  <a href="https://pt-br.reactjs.org/"> <img align="center" alt="thi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>  
      
 </div>
   <!--pato-->
@@ -44,6 +45,7 @@
   <div align="left" style="display: inline_block">
      <a href="https://www.instagram.com/https_._._th/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   </div>
 
  <!--snake-->
