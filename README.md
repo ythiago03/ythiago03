@@ -2,13 +2,13 @@
 <img align="right" src=".github/workflows/rimuru.gif" alt="rimuru gif"  width="50%"/>
 
 <!--profile-->
- <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="50px"></h1>
+ <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="6%"></h1>
  <p align="left">Welcome to my github!
 
   I'm Thiago Henrique, Front-End developer and
  passionate about games and programming.
   <br>
- <img src=".github/workflows/pug.gif" alt="pug gif" width="80px">
+ <img src=".github/workflows/pug.gif" alt="pug gif" width="10%">
  </p>
  
  <!-- github -->
@@ -32,7 +32,7 @@
 
  <!--about-->
  <h2> About me</h2>
- <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="50px">
+ <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="6%">
  <ul>
      <li> 👨🏻‍💻 I'm looking for an internship as a front-end developer</li>
      <li>🌱 I am currently studying JS, HTML, CSS, REACT and APIs</li>
