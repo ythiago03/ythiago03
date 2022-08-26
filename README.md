@@ -32,12 +32,24 @@
 
  <!--about-->
  <h2> About me</h2>
- <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="6%">
+ <!--
  <ul>
      <li> 👨🏻‍💻 I'm looking for an internship as a front-end developer</li>
      <li>🌱 I am currently studying JS, HTML, CSS, REACT and APIs</li>
   
- </ul>
+ </ul>-->
+ 
+ <img src=".github/workflows/rabbit.gif" alt="bunny gif" width="4%">
+ 
+ ```js
+ 
+ const aboutMe = () => {
+    const name = document.querySelector('Thiago');
+    let age = document.querySelector('19');
+    let currentlyStudying = ['Javascript', 'React', 'APIs']
+ }
+ 
+ ``` 
  <!--contact-->
  
  <h2>Contact me</h2>
