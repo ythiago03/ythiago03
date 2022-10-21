@@ -46,7 +46,7 @@
  const aboutMe = () => {
     const name = document.querySelector('Thiago');
     let age = document.querySelector('19');
-    let currentlyStudying = ['Javascript', 'React', 'APIs', 'English']
+    let currentlyStuding = ['Javascript', 'React', 'APIs', 'English']
  }
  
  ``` 
