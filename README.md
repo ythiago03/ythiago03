@@ -5,7 +5,7 @@
  <h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="6%"></h1>
  <p align="left">Welcome to my github!
 
-  I'm Thiago Henrique, Front-End developer and
+  I'm Thiago Fidêncio, Front-End developer and
  passionate about games and programming.
   <br>
  <img src=".github/workflows/pug.gif" alt="pug gif" width="10%">
