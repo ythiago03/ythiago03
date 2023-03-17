@@ -68,7 +68,8 @@
     let age = 20
     let currentlyStudying = ['Javascript', 'React', 'Vite', 'APIs', 'English']
 
-    return `Hello, my name is ${name}, i'm ${age} years old and i'm currently learning ${currentlyStudying}`
+    return `Hello, my name is ${name} i'm ${age} years old 
+            and i'm currently learning ${currentlyStudying}`
  }
  
  ``` 
