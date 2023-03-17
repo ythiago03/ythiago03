@@ -63,7 +63,7 @@
  
  ```js
  
- const aboutMe = () => {
+ export const aboutMe = () => {
     const name = 'Thiago'
     let age = 20
     let currentlyStudying = ['Javascript', 'React', 'Vite', 'APIs', 'English']
