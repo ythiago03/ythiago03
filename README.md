@@ -19,13 +19,30 @@
 </div>
  
  <!-- icons -->
-<div style="display: inline_block"
-     align="center"><br>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>  
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
-  <a href="https://pt-br.reactjs.org/"> <img align="center" alt="thi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>  
-     
+<div style="display: inline_block" align="center"><br>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+     <img align="center" alt="HTML Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   </a>  
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+     <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">        </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+     <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>  
+  <a href="https://pt-br.reactjs.org/"> 
+     <img align="center" alt="React Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>  
+  <a href="https://vitejs.dev/"> 
+     <img align="center" alt="Vite Logo" height="40" width="40" src="https://vitejs.dev/logo-with-shadow.png">
+  </a>     
+ <a href="https://nodejs.org/en/about"> 
+     <img align="center" alt="Node Logo" height="40" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
+  </a>  
+ <a href="https://tailwindcss.com/"> 
+     <img align="center" alt="Tailwind Css Logo" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+  </a>  
+<!--  <a href=""> 
+     <img align="center" alt=" Logo" height="30" width="40" src="">
+  </a>   -->
 </div>
   <!--pato-->
   <img align="right" alt="pato gif" height="150" src=".github/workflows/pato-juan.gif" >
