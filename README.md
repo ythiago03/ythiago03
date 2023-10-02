@@ -40,6 +40,9 @@
  <a href="https://tailwindcss.com/"> 
      <img align="center" alt="Tailwind Css Logo" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
   </a> 
+ <a href="https://www.mysql.com/"> 
+     <img align="center" alt="MySQL Logo" height="40" width="40" src="https://aety.io/wp-content/uploads/2016/11/mysql-logo.png">
+  </a> 
   <a href="https://git-scm.com/"> 
      <img align="center" alt="Git Logo" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </a>
