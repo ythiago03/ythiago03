@@ -85,5 +85,5 @@
   </div>
 
  <!--snake-->
- ![snake gif](https://github.com/ythiago03/ythiago03/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg">
 
