@@ -7,7 +7,7 @@
 
   I'm Thiago Fidêncio, Front-End developer and
  passionate about games and programming.
-  <br>
+   <br>
  <img src=".github/workflows/pug.gif" alt="pug gif" width="10%">
  </p>
  
@@ -66,7 +66,7 @@
  export default const aboutMe = () => {
     const name = 'Thiago'
     let age = 20
-    let currentlyStudying = ['Javascript', 'React', 'Vite', 'APIs', 'English']
+    let currentlyStudying = ['Next.js', 'React', 'MySQL', 'Typescript', 'English']
 
     return `Hello, my name is ${name} i'm ${age} years old 
             and i'm currently learning ${currentlyStudying}`
