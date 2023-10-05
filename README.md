@@ -198,7 +198,7 @@
 
 
 <!-- ========= PROJECTS ========== -->
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <h2 align="left">
   <i>P r o j e c t s</i>
 </h2>
