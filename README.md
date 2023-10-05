@@ -72,7 +72,7 @@
 
 <img align="left" src="https://private-user-images.githubusercontent.com/92443688/273060264-f718ea1a-d2fe-454f-82f5-533dfea49252.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTY1NDU3MzMsIm5iZiI6MTY5NjU0NTQzMywicGF0aCI6Ii85MjQ0MzY4OC8yNzMwNjAyNjQtZjcxOGVhMWEtZDJmZS00NTRmLTgyZjUtNTMzZGZlYTQ5MjUyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDA1VDIyMzcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNTBlMWI5ZjcwMmVlMWIxYTYzZWJkOTUzZmJiNGYyNmUyZjJkN2JhNThkNDViYTkyNjVmNzE0YjVkMjgwZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Lg_eEE4s_nhFszFKKlaBu7uImmA28cMgywOYSbYLRVM" width="35%" />
 
-<table align="right" height="308px">
+<table align="right" height="295px">
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
