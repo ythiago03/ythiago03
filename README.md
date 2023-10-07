@@ -3,10 +3,10 @@
 <!--profile-->
 <h1 align="center">
   <i>H e l l o  W o r l d </i>
-  <img src="https://private-user-images.githubusercontent.com/92443688/272414733-dd936192-d393-461c-9983-9f1bd6a0039b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTYzNzMxMjEsIm5iZiI6MTY5NjM3MjgyMSwicGF0aCI6Ii85MjQ0MzY4OC8yNzI0MTQ3MzMtZGQ5MzYxOTItZDM5My00NjFjLTk5ODMtOWYxYmQ2YTAwMzliLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDAzVDIyNDAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5NjFjZDQzMGJkMTZiNDRmZWU4OTNiMGNkODQxYTcxNTc4MzMxM2E3NTUxNmI4ZGRmNmJiOGUwZTVhMmQyNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.K27ZlqqmCOE0F3PZ7TlTF5aPC23L4M0QQlaGmMRWhFw" alt="Pixel art ghost gif" width="10%" >
+  <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="10%" >
 </h1>
 
-<img align="right" src="https://private-user-images.githubusercontent.com/92443688/272412991-98b05b96-f68d-4602-ba00-2027f0f016f7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTY1NDU5NDQsIm5iZiI6MTY5NjU0NTY0NCwicGF0aCI6Ii85MjQ0MzY4OC8yNzI0MTI5OTEtOThiMDViOTYtZjY4ZC00NjAyLWJhMDAtMjAyN2YwZjAxNmY3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDA1VDIyNDA0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmMGZlZGQ4NzgyMWI2MTZhNzkxZjNiMWFkMWE1Mzg0NWVkYmFhNWE4ZjlkZDBjMGRmNDgzYjhjMWNkODdkMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xFNY7QaZC5dT8N6yygC9W-_odMQc8bIr4egytytHG08" alt="Shinoa Seraph of the End gif"  width="30%"/>
+<img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="30%"/>
 
 <h3>
   <i>A b o u t</i>
@@ -70,7 +70,7 @@
   <i>Sk i l l s</i>
 </h2>
 
-<img align="left" src="https://private-user-images.githubusercontent.com/92443688/273060264-f718ea1a-d2fe-454f-82f5-533dfea49252.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTY1NDU3MzMsIm5iZiI6MTY5NjU0NTQzMywicGF0aCI6Ii85MjQ0MzY4OC8yNzMwNjAyNjQtZjcxOGVhMWEtZDJmZS00NTRmLTgyZjUtNTMzZGZlYTQ5MjUyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDA1VDIyMzcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNTBlMWI5ZjcwMmVlMWIxYTYzZWJkOTUzZmJiNGYyNmUyZjJkN2JhNThkNDViYTkyNjVmNzE0YjVkMjgwZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Lg_eEE4s_nhFszFKKlaBu7uImmA28cMgywOYSbYLRVM" width="35%" />
+<img align="left" src=".github/workflows/pc-gif.gif" width="35%" />
 
 <table align="right" height="295px">
   <tr>
