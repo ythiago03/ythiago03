@@ -14,7 +14,7 @@
  
  ```js
  
- export default const aboutMe = () => {
+ const AboutMe = () => {
     const name = 'Thiago'
     let age = 20
     let currentlyStudying = ['Next.js', 'React', 'MySQL', 'Typescript', 'English']
@@ -23,7 +23,7 @@
     return `Hello, my name is ${name} i'm ${age} years old 
             and i'm currently learning ${currentlyStudying} and a like ${likes}`
  }
- 
+ export default AboutMe;
  ``` 
 
 </br></br>
