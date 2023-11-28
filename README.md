@@ -6,25 +6,37 @@
   <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="40px" >
 </h1>
 
+<div align="center">
 <img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="250px"/>
-
-<h3>
-  <i>A b o u t</i>
-</h3>
- 
- ```js
- 
- const AboutMe = () => {
+  
+  <table width="100%">
+    <tr>
+      <td>
+        <h3>
+          <i>A b o u t</i>
+        </h3>
+        
+  ```js
+  
+  const AboutMe = () => {
     const name = 'Thiago'
     let age = 20
     let currentlyStudying = ['Next.js', 'React', 'MySQL', 'Typescript', 'English']
     let likes = ['Animes', 'Games', 'Programming']
-
+  
     return `Hello, my name is ${name} i'm ${age} years old 
             and i'm currently learning ${currentlyStudying} and a like ${likes}`
- }
- export default AboutMe;
- ``` 
+  }
+  export default AboutMe;
+  ``` 
+  </td>
+  </tr>
+  </table>
+  
+</div>
+
+
+
 
 </br></br>
 
