@@ -6,7 +6,7 @@
   <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="10%" >
 </h1>
 
-<img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="30%"/>
+<img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="26%"/>
 
 <h3>
   <i>A b o u t</i>
@@ -47,7 +47,7 @@
   <tr>
     <td align="center">
       <h2><i>C o n t a c t</i></h2>
-      <div align="left" >
+      <div align="center" >
         <a href="https://ythiago03-links.netlify.app/" target="_blank" >
           <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
         </a> 
@@ -73,7 +73,7 @@
   <i>Sk i l l s</i>
 </h2>
 
-<img align="left" src=".github/workflows/pc-gif.gif" width="35%" />
+<img align="left" src=".github/workflows/pc-gif.gif" width="25%" />
 
 <table align="right" height="295px">
   <tr>
