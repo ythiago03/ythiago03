@@ -29,7 +29,7 @@
 </br></br>
 
 <!-- ========= CONTACT and ACTIVITY ========== -->
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td>
       <h2 align="center">
@@ -43,7 +43,7 @@
     </td>  
   </tr>
 </table>
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <h2><i>C o n t a c t</i></h2>
