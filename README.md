@@ -74,7 +74,7 @@
 </h2>
 
 <div>
-  <img align="left" src=".github/workflows/pc-gif.gif" width="25%" />
+  <img align="center" src=".github/workflows/pc-gif.gif" width="25%" />
 
   <table align="right" width="70%" height="295px">
     <tr>
