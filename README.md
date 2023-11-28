@@ -3,10 +3,10 @@
 <!--profile-->
 <h1 align="center">
   <i>H e l l o  W o r l d </i>
-  <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="10%" >
+  <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="40px" >
 </h1>
 
-<img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="26%"/>
+<img align="right" src=".github/workflows/shinoa-gif.gif" alt="Shinoa Seraph of the End gif"  width="250px"/>
 
 <h3>
   <i>A b o u t</i>
@@ -201,6 +201,7 @@
   </br></br></br></br>
 </div>
 
+</br></br></br></br>
 
 <!-- ========= PROJECTS ========== -->
 
