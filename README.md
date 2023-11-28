@@ -29,9 +29,23 @@
 </br></br>
 
 <!-- ========= CONTACT and ACTIVITY ========== -->
-<table>
+<table width="100%">
   <tr>
-    <td width="300px">
+    <td>
+      <h2 align="center">
+        <i>A c t i v i t y</i>
+      </h2>
+      <div align="center">
+        <a href="https://github.com/ythiago03">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
+      </div>
+    </td>  
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td align="center">
       <h2><i>C o n t a c t</i></h2>
       <div align="left" >
         <a href="https://ythiago03-links.netlify.app/" target="_blank" >
@@ -49,19 +63,8 @@
         </a>
       </div>
     </td>
-    <td>
-      <h2 align="center">
-        <i>A c t i v i t y</i>
-      </h2>
-      <div align="center">
-        <a href="https://github.com/ythiago03">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
-      </div>
-    </td>  
   </tr>
 </table>
-          
 </br></br>
           
 <!-- ========= STACK ========== -->
