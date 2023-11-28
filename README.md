@@ -73,10 +73,10 @@
   <i>Sk i l l s</i>
 </h2>
 
-<div>
-  <img align="center" src=".github/workflows/pc-gif.gif" width="25%" />
+<div align="center">
+  <img src=".github/workflows/pc-gif.gif" width="25%" />
 
-  <table align="right" width="70%" height="295px">
+  <table align="right" height="295px">
     <tr>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
