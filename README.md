@@ -74,7 +74,7 @@
 </h2>
 
 <div align="center">
-  <img src=".github/workflows/pc-gif.gif" width="25%" />
+  <img src=".github/workflows/pc-gif.gif" width="300px" />
 
   <table align="right" height="295px">
     <tr>
@@ -201,7 +201,6 @@
   </br></br></br></br>
 </div>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 <!-- ========= PROJECTS ========== -->
 
