@@ -216,7 +216,7 @@
 </br></br></br></br>
 
 <!-- ========= PROJECTS ========== -->
-
+<!--
 <h2 align="left">
   <i>P r o j e c t s</i>
 </h2>
@@ -264,7 +264,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table>-->
 
 </br></br>
 
