@@ -265,7 +265,7 @@
     </td>
   </tr>
 </table>
-
+<img align="right" src=".github/workflows/work-gif.gif" alt="Pixel art work gif"  width="400px"/>
 </br></br>
 
 
