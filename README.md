@@ -216,7 +216,7 @@
 </br></br></br></br>
 
 <!-- ========= PROJECTS ========== -->
-<!--
+
 <h2 align="left">
   <i>P r o j e c t s</i>
 </h2>
@@ -231,40 +231,40 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
+      <a href="https://github.com/ythiago03/ythiago03-porfolio" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=ythiago03-porfolio&theme=tokyonight">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
+      <a href="https://github.com/ythiago03/Homzy-Landingpage" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Homzy-Landingpage&theme=tokyonight">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
+      <a href="https://github.com/ythiago03/weather-app" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=weather-app&theme=tokyonight">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
+      <a href="https://github.com/ythiago03/Pokedex-with-axios" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Pokedex-with-axios&theme=tokyonight">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
+      <a href="https://github.com/ythiago03/movie-app" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=movie-app&theme=tokyonight">
       </a>
     </td>
   </tr>
-</table>-->
+</table>
 
 </br></br>
 
