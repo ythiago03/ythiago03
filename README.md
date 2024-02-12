@@ -136,7 +136,7 @@
       </td>
       <td align="center">
         <a href="https://v2.tailwindcss.com/docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65px" alt="Tailwind css icon"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65px" alt="Tailwind css icon"/>
           </br>
           <pre>Tailwind Css</pre>
         </a>
