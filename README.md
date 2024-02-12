@@ -264,6 +264,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ythiago03/Atombank" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Atombank&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
 </table>
 <img align="right" src=".github/workflows/work-gif.gif" alt="Pixel art work gif"  width="400px"/>
 </br></br>
