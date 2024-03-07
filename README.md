@@ -24,8 +24,8 @@
     let currentlyStudying = ['Tailwind', 'React', 'MySQL', 'Typescript', 'Jest', 'English']
     let likes = ['Animes', 'Games', 'Programming']
   
-    return `Hello, my name is ${name} i'm ${age} years old 
-            and i'm currently learning ${currentlyStudying} and a like ${likes}`
+    return `Hello, my name is ${name} I'm ${age} years old 
+            and I'm currently learning ${currentlyStudying}, I like ${likes}`
   }
   export default AboutMe;
   ``` 
