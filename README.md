@@ -21,7 +21,7 @@
   const AboutMe = () => {
     const name = 'Thiago'
     let age = 21
-    let currentlyStudying = ['Tailwind', 'React', 'MySQL', 'Typescript', 'Jest', 'English']
+    let currentlyStudying = ['Java', 'Angular', 'MySQL', 'Typescript', 'Bootstrap', 'English']
     let likes = ['Animes', 'Games', 'Programming']
   
     return `Hello, my name is ${name} I'm ${age} years old 
