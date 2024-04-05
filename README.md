@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-<img align="right" src=".github/workflows/lain.gif" alt="Shinoa Seraph of the End gif"  width="190px"/>
+<img align="right" src=".github/workflows/lain-gif.gif" alt="Shinoa Seraph of the End gif"  width="190px"/>
   
   <table width="80%">
     <tr>
