@@ -86,7 +86,7 @@
 </h2>
 
 <div align="center">
-  <img src=".github/workflows/pc-gif.gif" width="300px" />
+<img align="left" src=".github/workflows/pc-gif.gif" width="300px" />
 
   <table align="right" height="295px">
     <tr>
@@ -158,10 +158,10 @@
         </a>  
       </td>
       <td align="center">
-        <a href="https://nextjs.org/docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px" alt="Next.js icon"/>
+        <a href="https://angular.dev/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="65px" alt="Next.js icon"/>
           </br>
-          <pre> Next.js </pre>
+          <pre> Angular </pre>
         </a>
       </td>
       <td align="center">
@@ -177,6 +177,36 @@
           </br>
           <pre>Github</pre>
         </a>  
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://docs.oracle.com/en/java/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65px" alt="Next.js icon"/>
+          </br>
+          <pre> Java </pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://docs.docker.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="65px" alt="Next.js icon"/>
+          </br>
+          <pre> Docker </pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65px" alt="Next.js icon"/>
+          </br>
+          <pre> Bootstrap </pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://docs.spring.io/spring-framework/reference/index.html">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="65px" alt="Next.js icon"/>
+          </br>
+          <pre> Spring </pre>
+        </a>
       </td>
     </tr>
     <tr>
@@ -209,19 +239,26 @@
         </a>
       </td>
     </tr>
-  </table>
-  </br></br></br></br>
+  </table> 
+  </br></br></br></br></br></br>
 </div>
 
 </br></br></br></br>
 
 <!-- ========= PROJECTS ========== -->
-
+</br></br></br>
 <h2 align="left">
   <i>P r o j e c t s</i>
 </h2>
 
 <table align="left"  height="267px">
+  <tr>
+    <td>
+      <a href="https://github.com/ythiago03/manga-store" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=manga-store&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/ythiago03/purpleframe" target="_blank">
