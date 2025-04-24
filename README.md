@@ -63,7 +63,7 @@
         <a href="https://ythiago03-links.netlify.app/" target="_blank" >
           <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
         </a> 
-        <a href="mailto:ythiagohcfidencio@gmail.com" >
+        <a href="mailto:contato@thiagof.com" >
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
         </a>
         <a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/" target="_blank" >
