@@ -20,7 +20,7 @@
   
   const AboutMe = () => {
     const name = 'Thiago'
-    let age = 21
+    let age = 22
     let currentlyStudying = ['Jest', 'NextJs', 'Docker', 'English']
     let likes = ['Animes', 'Games', 'Programming']
   
