@@ -254,6 +254,34 @@
 <table align="left"  height="267px">
   <tr>
     <td>
+      <a href="https://github.com/ythiago03/portfolio" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=portfolio&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ythiago03/timerify" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=timerify&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ythiago03/devutils" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=devutils&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ythiago03/physiosearch" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=physiosearch&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/ythiago03/manga-store" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=manga-store&theme=tokyonight">
       </a>
