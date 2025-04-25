@@ -70,9 +70,6 @@
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a> 
         <a href="https://codepen.io/Ythiago03" target="_blank" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
-        <a href="https://www.instagram.com/ythiago03/" >
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-        </a>
       </div>
     </td>
   </tr>
