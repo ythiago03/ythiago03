@@ -60,7 +60,7 @@
     <td align="center">
       <h2><i>C o n t a c t</i></h2>
       <div align="center" >
-        <a href="https://ythiago03-links.netlify.app/" target="_blank" >
+        <a href="https://links.thiagof.com" target="_blank" >
           <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
         </a> 
         <a href="mailto:contato@thiagof.com" >
