@@ -146,6 +146,36 @@
         </a>
       </td>
     </tr>
+     <tr>
+       <td align="center">
+        <a href="https://nextjs.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="65px" alt="NextJs icon"/>
+          </br>
+          <pre>  NextJs  </pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ionicframework.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="65px" alt="Ionic Framework icon"/>
+          </br>
+          <pre>  Ionic  </pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://capacitorjs.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain.svg" width="65px" alt="Capacitor icon"/>
+          </br>
+          <pre>Capacitor</pre>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://jestjs.io/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="65px" alt="Jest icon"/>
+          </br>
+          <pre>   Jest   </pre>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://dev.mysql.com/doc/">
