@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" src=".github/workflows/cyberpunk-skyline.gif" alt="Cyberpunk gif" />
+![Cyberpunk Gif](.github/workflows/cyberpunk-skyline.gif)
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
