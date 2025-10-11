@@ -1,370 +1,206 @@
-<!-- ========= HEADER ========== -->
-
-<!--profile-->
-<h1 align="center">
-  <i>H e l l o  W o r l d </i>
-  <img src=".github/workflows/ghost.gif" alt="Pixel art ghost gif" width="40px" >
-</h1>
-
 <div align="center">
-<img align="right" src=".github/workflows/lain-gif.gif" alt="Shinoa Seraph of the End gif"  width="190px"/>
-  
-  <table width="80%">
-    <tr>
-      <td>
-        <h3>
-          <i>A b o u t</i>
-        </h3>
-        
-  ```js
-  
-  const AboutMe = () => {
-    const name = 'Thiago'
-    let age = 22
-    let currentlyStudying = ['Jest', 'NextJs', 'Docker', 'English']
-    let likes = ['Animes', 'Games', 'Programming']
-  
-    return `Hello, my name is ${name} I'm ${age} years old 
-            and I'm currently learning ${currentlyStudying}, I like ${likes}`
-  }
-  export default AboutMe;
-  ``` 
-  </td>
-  </tr>
-  </table>
-  
+
+<img align="right" src=".github/workflows/cyberpunk-skyline.gif" alt="Cyberpunk gif" />
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗               ║
+║   ╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗              ║
+║      ██║   ███████║██║███████║██║  ███╗██║   ██║              ║
+║      ██║   ██╔══██║██║██╔══██║██║   ██║██║   ██║              ║
+║      ██║   ██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝              ║
+║      ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝               ║
+║                                                               ║
+║              [ C O N N E C T I N G  T O  T H E  W I R E D ]   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+Gaming+Enthusiast;Building+interfaces+between+worlds;Present+day%2C+present+time..." alt="Typing SVG" />
+
 </div>
 
+---
 
+## `$ whoami`
 
+```javascript
+const profile = {
+  name: "Thiago",
+  age: 22,
+  location: "Brazil",
+  status: "Connected",
+  
+  interests: [
+    "Cyberpunk aesthetics",
+    "Dystopian narratives", 
+    "Serial Experiments Lain",
+    "Ghost in the Shell",
+    "The Legend of Zelda",
+  ],
+  
+  currentlyLearning: ["Java", "English"],
+  
+  passions: ["Anime", "Games", "Programming", "VOCALOID", "Art", "3D Print"]
+};
 
-</br></br>
+export default profile;
+```
 
-<!-- ========= CONTACT and ACTIVITY ========== -->
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <h2 align="center">
-        <i>A c t i v i t y</i>
-      </h2>
-      <div align="center">
-        <a href="https://github.com/ythiago03">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&langs_count=7&theme=tokyonight"/>
-      </div>
-    </td>  
-  </tr>
-</table>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <h2><i>C o n t a c t</i></h2>
-      <div align="center" >
-        <a href="https://links.thiagof.com" target="_blank" >
-          <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
-        </a> 
-        <a href="mailto:contato@thiagof.com" >
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-        </a>
-        <a href="https://www.linkedin.com/in/thiago-fid%C3%AAncio-a24578224/" target="_blank" >
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a> 
-        <a href="https://codepen.io/Ythiago03" target="_blank" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
-      </div>
-    </td>
-  </tr>
-</table>
-</br></br>
-          
-<!-- ========= STACK ========== -->
+---
 
-<h2 align="center">
-  <i>Sk i l l s</i>
-</h2>
+## `$ cat /proc/experience`
+
+<details>
+<summary><b>⚡ SYSTEM ARCHITECTURE</b></summary>
+
+### 🎨 Frontend
 
 <div align="center">
-<img align="left" src=".github/workflows/pc-gif.gif" width="300px" />
 
-  <table align="right" height="295px">
-    <tr>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65px" alt="Javascript icon"/>
-          </br>
-          <pre>Javascript</pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="65px" alt="HTML icon"/>
-            </br>
-            <pre>   HTML  </pre>
-        </a>  
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="65px" alt="CSS icon"/>
-            </br>
-            <pre>   CSS   </pre>
-        </a> 
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org/en/docs/guides">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px" alt="NodeJs icon"/>
-            </br>
-            <pre> Node.js </pre>
-        </a> 
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.typescriptlang.org/docs/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65px" alt="Typescript icon"/>
-          </br>
-          <pre>Typecript</pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://react.dev/blog/2023/03/16/introducing-react-dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px" alt="React icon"/>
-          </br>
-          <pre>  React  </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://v2.tailwindcss.com/docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65px" alt="Tailwind css icon"/>
-          </br>
-          <pre>Tailwind Css</pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://git-scm.com/doc">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65px" alt="Git icon"/>
-          </br>
-          <pre>   Git   </pre>
-        </a>
-      </td>
-    </tr>
-     <tr>
-       <td align="center">
-        <a href="https://nextjs.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="65px" alt="NextJs icon"/>
-          </br>
-          <pre>  NextJs  </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://ionicframework.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="65px" alt="Ionic Framework icon"/>
-          </br>
-          <pre>  Ionic  </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://capacitorjs.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain.svg" width="65px" alt="Capacitor icon"/>
-          </br>
-          <pre>Capacitor</pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://jestjs.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="65px" alt="Jest icon"/>
-          </br>
-          <pre>   Jest   </pre>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://dev.mysql.com/doc/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65px" alt="MySQL icon"/>
-          </br>
-          <pre> MySQL </pre>
-        </a>  
-      </td>
-      <td align="center">
-        <a href="https://angular.dev/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="65px" alt="Next.js icon"/>
-          </br>
-          <pre> Angular </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://firebase.google.com/docs/guides?hl=pt-br">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65px" alt="Firebase css icon"/>
-          </br>
-          <pre>Firebase</pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://docs.github.com/en">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65px" alt="Github icon"/>
-          </br>
-          <pre>Github</pre>
-        </a>  
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://docs.oracle.com/en/java/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65px" alt="Next.js icon"/>
-          </br>
-          <pre> Java </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://docs.docker.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="65px" alt="Next.js icon"/>
-          </br>
-          <pre> Docker </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65px" alt="Next.js icon"/>
-          </br>
-          <pre> Bootstrap </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://docs.spring.io/spring-framework/reference/index.html">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="65px" alt="Next.js icon"/>
-          </br>
-          <pre> Spring </pre>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://eslint.org/docs/latest/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="65px" alt="ESlint icon"/>
-          </br>
-          <pre>Eslint</pre>
-        </a>  
-      </td>
-      <td align="center">
-        <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65px" alt="Azure icon"/>
-          </br>
-          <pre>Azure DevOps</pre>
-        </a>  
-      </td>
-      <td align="center">
-        <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65px" alt="Figma icon"/>
-          </br>
-          <pre> Figma </pre>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://code.visualstudio.com/docs/introvideos/basics">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65px" alt="Vscode icon"/>
-          </br>
-          <pre> VsCode </pre>
-        </a>
-      </td>
-    </tr>
-  </table> 
-  </br></br></br></br></br></br>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7F7) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00F7F7) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F7F7) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7F7) ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7F7) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7F7) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00F7F7) ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=FF6EC7) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=FF6EC7)
+
 </div>
 
-</br></br></br></br>
+### ⚙️ Backend
 
-<!-- ========= PROJECTS ========== -->
-</br></br></br>
-<h2 align="left">
-  <i>P r o j e c t s</i>
-</h2>
+<div align="center">
 
-<table align="left"  height="267px">
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/portfolio" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=portfolio&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/timerify" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=timerify&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/devutils" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=devutils&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/physiosearch" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=physiosearch&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/manga-store" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=manga-store&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/purpleframe" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/ythiago03-porfolio" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=ythiago03-porfolio&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/Homzy-Landingpage" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Homzy-Landingpage&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/weather-app" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=weather-app&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/Pokedex-with-axios" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Pokedex-with-axios&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/movie-app" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=movie-app&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ythiago03/Atombank" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=Atombank&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00F7F7) ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7F7) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=00F7F7) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7F7) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF6EC7)
+
+</div>
+
+### 🛠️ Tools & DevOps
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F7F7) ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7F7) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7F7) ![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=FF6EC7) ![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=FF6EC7) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=azure-devops&logoColor=00F7F7) ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FF6EC7) ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00F7F7)
+
+</div>
+
+### 📱 Mobile Frameworks
+
+<div align="center">
+
+![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=00F7F7) ![Capacitor](https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor&logoColor=00F7F7)
+
+</div>
+
+</details>
+
+---
+
+## `$ ls -la ~/projects`
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/portfolio)
+[![Timerify](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=timerify&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/timerify)
+
+[![DevUtils](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=devutils&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/devutils)
+[![PhysioSearch](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=physiosearch&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/physiosearch)
+
+[![Manga Store](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=manga-store&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/manga-store)
+[![PurpleFrame](https://github-readme-stats.vercel.app/api/pin/?username=ythiago03&repo=purpleframe&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9)](https://github.com/ythiago03/purpleframe)
+
+</div>
+
+---
+
+## `$ systemctl status thiago.service`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ythiago03&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6EC7&text_color=C9D1D9&ring_color=FF6EC7" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ythiago03&theme=synthwave&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=00F7F7" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythiago03&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+---
+
+## `$ echo $INTERESTS`
+
+<div align="center">
+
+### 🌃 Cyberpunk & Dystopian Aesthetics
+
+```
+"The boundary between the real world and the virtual world is an illusion."
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**📺 Favorite Anime**
+- Serial Experiments Lain
+- Cowboy Bebop
+- Re:Zero
+- 86 Eighty Six
+- Neon Genesis Evangelion
+- Frieren Beyond Journey's End
+
+</td>
+<td width="50%">
+
+**🎮 Gaming Interests**
+- Cyberpunk 2077
+- Red Dead Redemption 2
+- Project DIVA, Project SEKAI
+- The Legend of Zelda
+- Battlefield 1
+
+</td>
+</tr>
 </table>
-<img align="right" src=".github/workflows/work-gif.gif" alt="Pixel art work gif"  width="400px"/>
-</br></br>
 
+</div>
 
+---
+
+## `$ curl -X GET https://api.thiago.dev/contact`
+
+```json
+{
+  "status": "online",
+  "protocols": {
+    "email": "contato@thiagof.com",
+    "web": "https://links.thiagof.com",
+    "linkedin": "https://www.linkedin.com/in/ythiago03/",
+    "codepen": "https://codepen.io/Ythiago03"
+  },
+  "response_time": "< 24h",
+  "encryption": "end-to-end"
+}
+```
+
+<div align="center">
+  
+<a href="mailto:contato@thiagof.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7F7" alt="Email" />
+</a>
+<a href="https://links.thiagof.com">
+  <img src="https://img.shields.io/badge/Linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=00F7F7" alt="Linktree" />
+</a>
+<a href="https://links.thiagof.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7F7" alt="LinkedIn" />
+</a>
+<a href="https://codepen.io/Ythiago03">
+  <img src="https://img.shields.io/badge/CodePen-0D1117?style=for-the-badge&logo=codepen&logoColor=00F7F7" alt="CodePen" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ythiago03&color=00F7F7&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+
+**[ TRANSMISSION END ]**
+
+</div>
