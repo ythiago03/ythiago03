@@ -28,7 +28,7 @@
 ```javascript
 const profile = {
   name: "Thiago",
-  age: 22,
+  age: 23,
   location: "Brazil",
   status: "Connected",
   
